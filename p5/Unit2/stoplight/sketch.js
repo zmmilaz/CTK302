@@ -2,7 +2,7 @@ let state = 0;
 
 function setup() {
   createCanvas(800, 800);
-  ellipseMose(CENTER);
+  ellipseMode(CENTER);
   rectMode(CENTER);
 }
 
